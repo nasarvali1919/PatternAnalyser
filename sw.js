@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pattern-analyser-v1';
+const CACHE_NAME = 'pattern-analyser-v1.1';
 const ASSETS = [
     './',
     './index.html',
